@@ -4,9 +4,9 @@ Android View Pager Library
 #### This Library can be used to create view pager in android very easily.
 #### View Pager is a Layout element that helps users to slide images one after the other.
 #### In this Library only one function is used and can be customized to user needs.
-![alt text](https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif "Now you have to just select the images and transition speed ,rest all will be done.")
+![alt text](https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif=100x20 "Now you have to just select the images and transition speed ,rest all will be done.")
 
-
+<img src="https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif" width="48">
 # Download:
 
 Maven:
