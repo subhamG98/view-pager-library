@@ -1,13 +1,14 @@
 Android View Pager Library
+======
 
-This Library can be used to create view pager in android very easily.
-View Pager is a Layout element that helps users to slide images one after the other.
-In this Library only one function is used and can be customized to user needs.
+#### This Library can be used to create view pager in android very easily.
+#### View Pager is a Layout element that helps users to slide images one after the other.
+#### In this Library only one function is used and can be customized to user needs.
 ![alt text](https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif "Now you have to just select the images and transition speed ,rest all will be done.")
 
 
-Download:
-
+# Download:
+---
 Maven:
 <dependency>
   <groupId>com.example.mypc.mylibrary</groupId>
@@ -16,12 +17,13 @@ Maven:
   <type>pom</type>
 </dependency>
 
-Gradle:
+# Gradle:
+---
+## compile 'com.example.mypc.mylibrary:mylibrary:1.0'
 
-compile 'com.example.mypc.mylibrary:mylibrary:1.0'
 
-
-
+---
+---
 
 Here you can see the sample java file where you can use this function.
 
@@ -61,8 +63,8 @@ public class MainActivity extends Activity {
 
 
 
-License:
-
+## License:
+---
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
