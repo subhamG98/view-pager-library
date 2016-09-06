@@ -6,7 +6,7 @@ Android View Pager Library
 #### In this Library only one function is used and can be customized to user needs.
 
 
-<img src="https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif" width="400" height="400">
+<img src="https://github.com/subhamG98/view-pager-library/blob/master/ScreenRecorder_Exported_20160905182113.gif" width="250" height="400">
 # Download:
 
 Maven:
